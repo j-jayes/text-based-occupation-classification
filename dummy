@@ -1,0 +1,18 @@
+import requests
+
+# Define the URL of the API endpoint
+url = "https://jsonplaceholder.typicode.com/todos/1"
+
+# Send a GET request to the API endpoint
+response = requests.get(url)
+
+# Check the response status code
+if response.status_code == 200:
+    # Parse the JSON data from the response
+    json_data = response.json()
+
+    # Print the JSON data to the console
+    print(json_data)
+    print("successfully retrieved data from API")
+else:
+    print("Error: Failed to retrieve data from API")

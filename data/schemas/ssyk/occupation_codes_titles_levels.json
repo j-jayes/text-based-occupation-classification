@@ -1,0 +1,2912 @@
+[
+    {
+        "code": "111",
+        "title": "Politiker och högre ämbetsmän",
+        "level": 3
+    },
+    {
+        "code": "1111",
+        "title": "Politiker",
+        "level": 4
+    },
+    {
+        "code": "1112",
+        "title": "General-, landstings- och kommundirektörer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "1113",
+        "title": "Chefstjänstemän i intresseorganisationer ",
+        "level": 4
+    },
+    {
+        "code": "112",
+        "title": "Verkställande direktörer m.fl.",
+        "level": 3
+    },
+    {
+        "code": "1120",
+        "title": "Verkställande direktörer m.fl.  ",
+        "level": 4
+    },
+    {
+        "code": "121",
+        "title": "Ekonomi- och finanschefer",
+        "level": 3
+    },
+    {
+        "code": "1211",
+        "title": "Ekonomi- och finanschefer nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1212",
+        "title": "Ekonomi- och finanschefer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "122",
+        "title": "Personal- och HR-chefer",
+        "level": 3
+    },
+    {
+        "code": "1221",
+        "title": "Personal- och HR-chefer nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1222",
+        "title": "Personal- och HR-chefer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "123",
+        "title": "Förvaltnings- och planeringschefer",
+        "level": 3
+    },
+    {
+        "code": "1230",
+        "title": "Förvaltnings- och planeringschefer nivå 0 ",
+        "level": 4
+    },
+    {
+        "code": "124",
+        "title": "Informations-, kommunikations- och PR-chefer",
+        "level": 3
+    },
+    {
+        "code": "1241",
+        "title": "Informations-, kommunikations- och PR-chefer nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1242",
+        "title": "Informations-, kommunikations - och PR-chefer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "125",
+        "title": "Försäljnings- och marknadschefer",
+        "level": 3
+    },
+    {
+        "code": "1251",
+        "title": "Försäljnings- och marknadschefer nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1252",
+        "title": "Försäljnings- och marknadschefer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "129",
+        "title": "Övriga administrations- och servicechefer",
+        "level": 3
+    },
+    {
+        "code": "1291",
+        "title": "Övriga administrations- och servicechefer nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1292",
+        "title": "Övriga administrations- och servicechefer nivå 2  ",
+        "level": 4
+    },
+    {
+        "code": "131",
+        "title": "IT-chefer",
+        "level": 3
+    },
+    {
+        "code": "1311",
+        "title": "IT-chefer nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1312",
+        "title": "IT-chefer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "132",
+        "title": "Inköps-, logistik- och transportchefer",
+        "level": 3
+    },
+    {
+        "code": "1321",
+        "title": "Inköps-, logistik- och transportchefer nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1322",
+        "title": "Inköps-, logistik- och transportchefer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "133",
+        "title": "Forsknings- och utvecklingschefer",
+        "level": 3
+    },
+    {
+        "code": "1331",
+        "title": "Forsknings- och utvecklingschefer nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1332",
+        "title": "Forsknings- och utvecklingschefer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "134",
+        "title": "Chefer inom arkitekt- och ingenjörsverksamhet",
+        "level": 3
+    },
+    {
+        "code": "1341",
+        "title": "Chefer inom arkitekt- och ingenjörsverksamhet nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1342",
+        "title": "Chefer inom arkitekt- och ingenjörsverksamhet nivå 2    Översiktlig förteckning Standard för svensk yrkesklassificering (SSYK) 2012",
+        "level": 4
+    },
+    {
+        "code": "135",
+        "title": "Fastighets- och förvaltningschefer",
+        "level": 3
+    },
+    {
+        "code": "1351",
+        "title": "Fastighets- och förvaltningschefer nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1352",
+        "title": "Fastighets- och förvaltningschefer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "136",
+        "title": "Driftchefer inom bygg, anläggning och gruva",
+        "level": 3
+    },
+    {
+        "code": "1361",
+        "title": "Driftchefer inom bygg, anläggning och gruva nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1362",
+        "title": "Driftchefer inom bygg, anläggning och gruva nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "137",
+        "title": "Produktionschefer inom tillverkning",
+        "level": 3
+    },
+    {
+        "code": "1371",
+        "title": "Produktionschefer inom tillverkning nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1372",
+        "title": "Produktionschefer inom tillverkning nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "138",
+        "title": "Förvaltare inom skogsbruk och lantbruk m.fl.",
+        "level": 3
+    },
+    {
+        "code": "1380",
+        "title": "Förvaltare inom skogsbruk och lantbruk m.fl.  ",
+        "level": 4
+    },
+    {
+        "code": "141",
+        "title": "Chefer inom grund- och gymnasieskola samt vuxenutbildning",
+        "level": 3
+    },
+    {
+        "code": "1411",
+        "title": "Avdelningschefer inom grund- och gymnasieskola samt vuxenutbildning nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1412",
+        "title": "Rektorer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "142",
+        "title": "Chefer inom förskoleverksamhet",
+        "level": 3
+    },
+    {
+        "code": "1421",
+        "title": "Avdelningschefer inom förskola nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1422",
+        "title": "Förskolechefer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "149",
+        "title": "Övriga chefer inom utbildning",
+        "level": 3
+    },
+    {
+        "code": "1491",
+        "title": "Övriga avdelningschefer inom utbildning nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1492",
+        "title": "Övriga verksamhetschefer inom utbildning nivå 2  ",
+        "level": 4
+    },
+    {
+        "code": "151",
+        "title": "Chefer inom hälso- och sjukvård",
+        "level": 3
+    },
+    {
+        "code": "1511",
+        "title": "Klinik- och verksamhetschefer inom hälsa och sjukvård nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1512",
+        "title": "Avdelnings- och enhetschefer inom hälsa och sjukvård nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "152",
+        "title": "Chefer inom socialt och kurativt arbete",
+        "level": 3
+    },
+    {
+        "code": "1521",
+        "title": "Avdelningschefer inom socialt och kurativt arbete nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1522",
+        "title": "Enhetschefer inom socialt och kurativt arbete nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "153",
+        "title": "Chefer inom äldreomsorg",
+        "level": 3
+    },
+    {
+        "code": "1531",
+        "title": "Avdelningschefer inom äldreomsorg nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1532",
+        "title": "Enhetschefer inom äldreomsorg nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "154",
+        "title": "Chefer och ledare inom trossamfund",
+        "level": 3
+    },
+    {
+        "code": "1540",
+        "title": "Chefer och ledare inom trossamfund nivå 0 ",
+        "level": 4
+    },
+    {
+        "code": "159",
+        "title": "Övriga chefer inom samhällsservice",
+        "level": 3
+    },
+    {
+        "code": "1591",
+        "title": "Övriga chefer inom samhällsservice nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1592",
+        "title": "Övriga verksamhetschefer inom samhällsservice nivå 2  ",
+        "level": 4
+    },
+    {
+        "code": "161",
+        "title": "Chefer inom bank, finans och försäkring",
+        "level": 3
+    },
+    {
+        "code": "1611",
+        "title": "Chefer inom bank, finans och försäkring nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1612",
+        "title": "Chefer inom bank, finans och försäkring nivå 2  ",
+        "level": 4
+    },
+    {
+        "code": "171",
+        "title": "Hotell- och konferenschefer",
+        "level": 3
+    },
+    {
+        "code": "1711",
+        "title": "Hotell- och konferenschefer nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1712",
+        "title": "Hotell- och konferenschefer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "172",
+        "title": "Restaurang- och kökschefer",
+        "level": 3
+    },
+    {
+        "code": "1721",
+        "title": "Restaurang- och kökschefer nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1722",
+        "title": "Restaurang- och kökschefer nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "173",
+        "title": "Chefer inom handel",
+        "level": 3
+    },
+    {
+        "code": "1731",
+        "title": "Chefer inom handel nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1732",
+        "title": "Chefer inom handel nivå 2 ",
+        "level": 4
+    },
+    {
+        "code": "174",
+        "title": "Chefer inom friskvård, sport och fritid",
+        "level": 3
+    },
+    {
+        "code": "1741",
+        "title": "Chefer inom friskvård, sport och fritid nivå 1",
+        "level": 4
+    },
+    {
+        "code": "1742",
+        "title": "Chefer inom friskvård, sport och fritid nivå 2  Standard för svensk yrkesklassificering (SSYK) 2012 Översiktlig förteckning ",
+        "level": 4
+    },
+    {
+        "code": "179",
+        "title": "Chefer inom övrig servicenäring",
+        "level": 3
+    },
+    {
+        "code": "1791",
+        "title": "Chefer inom övrig servicenäring nivå 1",
+        "level": 4
+    },
+    {
+        "code": "211",
+        "title": "Fysiker, kemister och geologer m.fl.",
+        "level": 3
+    },
+    {
+        "code": "2111",
+        "title": "Fysiker och astronomer",
+        "level": 4
+    },
+    {
+        "code": "2112",
+        "title": "Meteorologer",
+        "level": 4
+    },
+    {
+        "code": "2113",
+        "title": "Kemister",
+        "level": 4
+    },
+    {
+        "code": "2114",
+        "title": "Geologer och geofysiker m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "212",
+        "title": "Matematiker, aktuarier och statistiker",
+        "level": 3
+    },
+    {
+        "code": "2121",
+        "title": "Matematiker och aktuarier",
+        "level": 4
+    },
+    {
+        "code": "2122",
+        "title": "Statistiker ",
+        "level": 4
+    },
+    {
+        "code": "213",
+        "title": "Biologer, farmakologer och specialister inom lant- och skogsbruk m.fl.",
+        "level": 3
+    },
+    {
+        "code": "2131",
+        "title": "Cell- och molekylärbiologer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2132",
+        "title": "Växt- och djurbiologer",
+        "level": 4
+    },
+    {
+        "code": "2133",
+        "title": "Farmakologer och biomedicinare",
+        "level": 4
+    },
+    {
+        "code": "2134",
+        "title": "Specialister och rådgivare inom lantbruk m.m.",
+        "level": 4
+    },
+    {
+        "code": "2135",
+        "title": "Specialister och rådgivare inom skogsbruk ",
+        "level": 4
+    },
+    {
+        "code": "214",
+        "title": "Civilingenjörsyrken",
+        "level": 3
+    },
+    {
+        "code": "2141",
+        "title": "Civilingenjörsyrken inom logistik och produktionsplanering",
+        "level": 4
+    },
+    {
+        "code": "2142",
+        "title": "Civilingenjörsyrken inom bygg och anläggning",
+        "level": 4
+    },
+    {
+        "code": "2143",
+        "title": "Civilingenjörsyrken inom elektroteknik",
+        "level": 4
+    },
+    {
+        "code": "2144",
+        "title": "Civilingenjörsyrken inom maskinteknik",
+        "level": 4
+    },
+    {
+        "code": "2145",
+        "title": "Civilingenjörsyrken inom kemi och kemiteknik",
+        "level": 4
+    },
+    {
+        "code": "2146",
+        "title": "Civilingenjörsyrken inom gruvteknik och metallurgi",
+        "level": 4
+    },
+    {
+        "code": "2149",
+        "title": "Övriga civilingenjörsyrken ",
+        "level": 4
+    },
+    {
+        "code": "215",
+        "title": "UTGÅR5 ",
+        "level": 3
+    },
+    {
+        "code": "216",
+        "title": "Arkitekter och lantmätare",
+        "level": 3
+    },
+    {
+        "code": "2161",
+        "title": "Arkitekter m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2162",
+        "title": "Landskapsarkitekter",
+        "level": 4
+    },
+    {
+        "code": "2163",
+        "title": "Planeringsarkitekter m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2164",
+        "title": "Lantmätare  ",
+        "level": 4
+    },
+    {
+        "code": "217",
+        "title": "Designer och formgivare",
+        "level": 3
+    },
+    {
+        "code": "2171",
+        "title": "Industridesigner",
+        "level": 4
+    },
+    {
+        "code": "2172",
+        "title": "Grafisk formgivare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2173",
+        "title": "Designer inom spel och digitala medier",
+        "level": 4
+    },
+    {
+        "code": "2179",
+        "title": "Övriga designer och formgivare ",
+        "level": 4
+    },
+    {
+        "code": "218",
+        "title": "Specialister inom miljö- och hälsoskydd",
+        "level": 3
+    },
+    {
+        "code": "2181",
+        "title": "Arbetsmiljöingenjörer, yrkes- och miljöhygieniker",
+        "level": 4
+    },
+    {
+        "code": "2182",
+        "title": "Miljö- och hälsoskyddsinspektörer",
+        "level": 4
+    },
+    {
+        "code": "2183",
+        "title": "Specialister inom miljöskydd och miljöteknik  ",
+        "level": 4
+    },
+    {
+        "code": "221",
+        "title": "Läkare",
+        "level": 3
+    },
+    {
+        "code": "2211",
+        "title": "Specialistläkare",
+        "level": 4
+    },
+    {
+        "code": "2212",
+        "title": "ST-läkare",
+        "level": 4
+    },
+    {
+        "code": "2213",
+        "title": "AT-läkare",
+        "level": 4
+    },
+    {
+        "code": "2219",
+        "title": "Övriga läkare ",
+        "level": 4
+    },
+    {
+        "code": "222",
+        "title": "Sjuksköterskor",
+        "level": 3
+    },
+    {
+        "code": "2221",
+        "title": "Grundutbildade sjuksköterskor",
+        "level": 4
+    },
+    {
+        "code": "2222",
+        "title": "Barnmorskor",
+        "level": 4
+    },
+    {
+        "code": "2223",
+        "title": "Anestesisjuksköterskor",
+        "level": 4
+    },
+    {
+        "code": "2224",
+        "title": "Distriktssköterskor",
+        "level": 4
+    },
+    {
+        "code": "2225",
+        "title": "Psykiatrisjuksköterskor",
+        "level": 4
+    },
+    {
+        "code": "2226",
+        "title": "Ambulanssjuksköterskor m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2227",
+        "title": "Geriatriksjuksköterskor",
+        "level": 4
+    },
+    {
+        "code": "2228",
+        "title": "Intensivvårdssjuksköterskor ",
+        "level": 4
+    },
+    {
+        "code": "223",
+        "title": "Sjuksköterskor (fortsättning)",
+        "level": 3
+    },
+    {
+        "code": "2231",
+        "title": "Operationssjuksköterskor",
+        "level": 4
+    },
+    {
+        "code": "2232",
+        "title": "Barnsjuksköterskor",
+        "level": 4
+    },
+    {
+        "code": "2233",
+        "title": "Skolsköterskor",
+        "level": 4
+    },
+    {
+        "code": "2234",
+        "title": "Företagssköterskor",
+        "level": 4
+    },
+    {
+        "code": "2235",
+        "title": "Röntgensjuksköterskor",
+        "level": 4
+    },
+    {
+        "code": "2239",
+        "title": "Övriga specialistsjuksköterskor ",
+        "level": 4
+    },
+    {
+        "code": "224",
+        "title": "Psykologer och psykoterapeuter",
+        "level": 3
+    },
+    {
+        "code": "2241",
+        "title": "Psykologer",
+        "level": 4
+    },
+    {
+        "code": "2242",
+        "title": "Psykoterapeuter ",
+        "level": 4
+    },
+    {
+        "code": "225",
+        "title": "Veterinärer",
+        "level": 3
+    },
+    {
+        "code": "2250",
+        "title": "Veterinärer ",
+        "level": 4
+    },
+    {
+        "code": "226",
+        "title": "Tandläkare",
+        "level": 3
+    },
+    {
+        "code": "2260",
+        "title": "Tandläkare ",
+        "level": 4
+    },
+    {
+        "code": "227",
+        "title": "Naprapater, sjukgymnaster och arbetsterapeuter m.fl.",
+        "level": 3
+    },
+    {
+        "code": "2271",
+        "title": "Kiropraktorer och naprapater m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2272",
+        "title": "Sjukgymnaster",
+        "level": 4
+    },
+    {
+        "code": "2273",
+        "title": "Arbetsterapeuter    Översiktlig förteckning Standard för svensk yrkesklassificering (SSYK) 2012",
+        "level": 4
+    },
+    {
+        "code": "228",
+        "title": "Andra specialister inom hälso- och sjukvård",
+        "level": 3
+    },
+    {
+        "code": "2281",
+        "title": "Apotekare",
+        "level": 4
+    },
+    {
+        "code": "2282",
+        "title": "Dietister",
+        "level": 4
+    },
+    {
+        "code": "2283",
+        "title": "Audionomer och logopeder",
+        "level": 4
+    },
+    {
+        "code": "2284",
+        "title": "Optiker",
+        "level": 4
+    },
+    {
+        "code": "2289",
+        "title": "Övriga specialister inom hälso- och sjukvård  ",
+        "level": 4
+    },
+    {
+        "code": "231",
+        "title": "Universitets- och högskolelärare",
+        "level": 3
+    },
+    {
+        "code": "2311",
+        "title": "Professorer",
+        "level": 4
+    },
+    {
+        "code": "2312",
+        "title": "Universitets- och högskolelektorer",
+        "level": 4
+    },
+    {
+        "code": "2313",
+        "title": "Forskarassistenter m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2314",
+        "title": "Doktorander",
+        "level": 4
+    },
+    {
+        "code": "2319",
+        "title": "Övriga universitets- och högskolelärare ",
+        "level": 4
+    },
+    {
+        "code": "232",
+        "title": "Lärare i yrkesämnen",
+        "level": 3
+    },
+    {
+        "code": "2320",
+        "title": "Lärare i yrkesämnen ",
+        "level": 4
+    },
+    {
+        "code": "233",
+        "title": "Gymnasielärare",
+        "level": 3
+    },
+    {
+        "code": "2330",
+        "title": "Gymnasielärare ",
+        "level": 4
+    },
+    {
+        "code": "234",
+        "title": "Grundskollärare, fritidspedagoger och förskollärare",
+        "level": 3
+    },
+    {
+        "code": "2341",
+        "title": "Grundskollärare",
+        "level": 4
+    },
+    {
+        "code": "2342",
+        "title": "Fritidspedagoger",
+        "level": 4
+    },
+    {
+        "code": "2343",
+        "title": "Förskollärare ",
+        "level": 4
+    },
+    {
+        "code": "235",
+        "title": "Andra pedagoger med teoretisk specialistkompetens",
+        "level": 3
+    },
+    {
+        "code": "2351",
+        "title": "Speciallärare och specialpedagoger m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2352",
+        "title": "Studie- och yrkesvägledare",
+        "level": 4
+    },
+    {
+        "code": "2359",
+        "title": "Övriga pedagoger med teoretisk specialistkompetens  ",
+        "level": 4
+    },
+    {
+        "code": "241",
+        "title": "Revisorer, finansanalytiker och fondförvaltare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "2411",
+        "title": "Revisorer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2412",
+        "title": "Controller",
+        "level": 4
+    },
+    {
+        "code": "2413",
+        "title": "Finansanalytiker och investeringsrådgivare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2414",
+        "title": "Traders och fondförvaltare",
+        "level": 4
+    },
+    {
+        "code": "2415",
+        "title": "Nationalekonomer och makroanalytiker m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2419",
+        "title": "Övriga ekonomer ",
+        "level": 4
+    },
+    {
+        "code": "242",
+        "title": "Organisationsutvecklare, utredare och HR-specialister m.fl.",
+        "level": 3
+    },
+    {
+        "code": "2421",
+        "title": "Lednings- och organisationsutvecklare",
+        "level": 4
+    },
+    {
+        "code": "2422",
+        "title": "Planerare och utredare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2423",
+        "title": "Personal- och HR-specialister",
+        "level": 4
+    },
+    {
+        "code": "243",
+        "title": "Marknadsförare och informatörer m.fl.",
+        "level": 3
+    },
+    {
+        "code": "2431",
+        "title": "Marknadsanalytiker och marknadsförare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2432",
+        "title": "Informatörer, kommunikatörer och PRspecialister  ",
+        "level": 4
+    },
+    {
+        "code": "251",
+        "title": "IT-arkitekter, systemutvecklare och testledare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "2511",
+        "title": "Systemanalytiker och IT-arkitekter m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2512",
+        "title": "Mjukvaru- och systemutvecklare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2513",
+        "title": "Utvecklare inom spel och digitala media",
+        "level": 4
+    },
+    {
+        "code": "2514",
+        "title": "Systemtestare och testledare",
+        "level": 4
+    },
+    {
+        "code": "2515",
+        "title": "Systemförvaltare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2516",
+        "title": "IT-säkerhetsspecialister",
+        "level": 4
+    },
+    {
+        "code": "2519",
+        "title": "Övriga IT-specialister ",
+        "level": 4
+    },
+    {
+        "code": "252",
+        "title": "UTGÅR6  ",
+        "level": 3
+    },
+    {
+        "code": "261",
+        "title": "Jurister",
+        "level": 3
+    },
+    {
+        "code": "2611",
+        "title": "Advokater",
+        "level": 4
+    },
+    {
+        "code": "2612",
+        "title": "Domare",
+        "level": 4
+    },
+    {
+        "code": "2613",
+        "title": "Åklagare",
+        "level": 4
+    },
+    {
+        "code": "2614",
+        "title": "Affärs- och företagsjurister",
+        "level": 4
+    },
+    {
+        "code": "2615",
+        "title": "Förvaltnings- och organisationsjurister",
+        "level": 4
+    },
+    {
+        "code": "2619",
+        "title": "Övriga jurister ",
+        "level": 4
+    },
+    {
+        "code": "262",
+        "title": "Museiintendenter och bibliotekarier m.fl.",
+        "level": 3
+    },
+    {
+        "code": "2621",
+        "title": "Museiintendenter m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2622",
+        "title": "Bibliotekarier och arkivarier",
+        "level": 4
+    },
+    {
+        "code": "2623",
+        "title": "Arkeologer och specialister inom humaniora m.m. ",
+        "level": 4
+    },
+    {
+        "code": "263",
+        "title": "Utgår7 ",
+        "level": 3
+    },
+    {
+        "code": "264",
+        "title": "Författare, journalister och tolkar m.fl.",
+        "level": 3
+    },
+    {
+        "code": "2641",
+        "title": "Författare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2642",
+        "title": "Journalister m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2643",
+        "title": "Översättare, tolkar och lingvister m.fl.    ",
+        "level": 4
+    },
+    {
+        "code": "265",
+        "title": "Konstnärer, musiker och skådespelare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "2651",
+        "title": "Bildkonstnärer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2652",
+        "title": "Musiker, sångare och kompositörer",
+        "level": 4
+    },
+    {
+        "code": "2653",
+        "title": "Koreografer och dansare",
+        "level": 4
+    },
+    {
+        "code": "2654",
+        "title": "Regissörer och producenter av film, teater m.m.",
+        "level": 4
+    },
+    {
+        "code": "2655",
+        "title": "Skådespelare ",
+        "level": 4
+    },
+    {
+        "code": "266",
+        "title": "Socialsekreterare och kuratorer m.fl.",
+        "level": 3
+    },
+    {
+        "code": "2661",
+        "title": "Socialsekreterare",
+        "level": 4
+    },
+    {
+        "code": "2662",
+        "title": "Kuratorer",
+        "level": 4
+    },
+    {
+        "code": "2663",
+        "title": "Biståndsbedömare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "2669",
+        "title": "Övriga yrken inom socialt arbete ",
+        "level": 4
+    },
+    {
+        "code": "267",
+        "title": "Präster och diakoner",
+        "level": 3
+    },
+    {
+        "code": "2671",
+        "title": "Präster",
+        "level": 4
+    },
+    {
+        "code": "311",
+        "title": "Ingenjörer och tekniker",
+        "level": 3
+    },
+    {
+        "code": "3111",
+        "title": "Ingenjörer och tekniker inom industri, logistik och produktionsplanering",
+        "level": 4
+    },
+    {
+        "code": "3112",
+        "title": "Ingenjörer och tekniker inom bygg och anläggning",
+        "level": 4
+    },
+    {
+        "code": "3113",
+        "title": "Ingenjörer och tekniker inom elektroteknik",
+        "level": 4
+    },
+    {
+        "code": "3114",
+        "title": "Ingenjörer och tekniker inom maskinteknik",
+        "level": 4
+    },
+    {
+        "code": "3115",
+        "title": "Ingenjörer och tekniker inom kemi och kemiteknik",
+        "level": 4
+    },
+    {
+        "code": "3116",
+        "title": "Ingenjörer och tekniker inom gruvteknik och metallurgi",
+        "level": 4
+    },
+    {
+        "code": "3117",
+        "title": "GIS- och kartingenjörer",
+        "level": 4
+    },
+    {
+        "code": "3119",
+        "title": "Övriga ingenjörer och tekniker ",
+        "level": 4
+    },
+    {
+        "code": "312",
+        "title": "Arbetsledare inom bygg och tillverkning m.m.",
+        "level": 3
+    },
+    {
+        "code": "3121",
+        "title": "Arbetsledare inom bygg, anläggning och gruva",
+        "level": 4
+    },
+    {
+        "code": "3122",
+        "title": "Arbetsledare inom tillverkning ",
+        "level": 4
+    },
+    {
+        "code": "313",
+        "title": "UTGÅR8 ",
+        "level": 3
+    },
+    {
+        "code": "314",
+        "title": "UTGÅR9 ",
+        "level": 3
+    },
+    {
+        "code": "315",
+        "title": "Piloter, fartygs- och maskinbefäl m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3151",
+        "title": "Maskinbefäl",
+        "level": 4
+    },
+    {
+        "code": "3152",
+        "title": "Fartygsbefäl m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3153",
+        "title": "Piloter m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3154",
+        "title": "Flygledare",
+        "level": 4
+    },
+    {
+        "code": "3155",
+        "title": "Flygtekniker  ",
+        "level": 4
+    },
+    {
+        "code": "321",
+        "title": "Biomedicinska analytiker, tandtekniker och laboratorieingenjörer m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3211",
+        "title": "Tekniker, bilddiagnostik och medicinteknisk utrustning",
+        "level": 4
+    },
+    {
+        "code": "3212",
+        "title": "Biomedicinska analytiker m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3213",
+        "title": "Receptarier",
+        "level": 4
+    },
+    {
+        "code": "3214",
+        "title": "Tandtekniker och ortopedingenjörer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3215",
+        "title": "Laboratorieingenjörer ",
+        "level": 4
+    },
+    {
+        "code": "322",
+        "title": "UTGÅR10 ",
+        "level": 3
+    },
+    {
+        "code": "323",
+        "title": "Terapeuter inom alternativmedicin",
+        "level": 3
+    },
+    {
+        "code": "3230",
+        "title": "Terapeuter inom alternativmedicin ",
+        "level": 4
+    },
+    {
+        "code": "324",
+        "title": "Djursjukskötare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3240",
+        "title": "Djursjukskötare m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "325",
+        "title": "Tandhygienister",
+        "level": 3
+    },
+    {
+        "code": "3250",
+        "title": "Tandhygienister  ",
+        "level": 4
+    },
+    {
+        "code": "331",
+        "title": "Banktjänstemän och redovisningsekonomer m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3311",
+        "title": "Mäklare inom finans",
+        "level": 4
+    },
+    {
+        "code": "3312",
+        "title": "Banktjänstemän",
+        "level": 4
+    },
+    {
+        "code": "3313",
+        "title": "Redovisningsekonomer",
+        "level": 4
+    },
+    {
+        "code": "3314",
+        "title": "Skadereglerare och värderare ",
+        "level": 4
+    },
+    {
+        "code": "332",
+        "title": "Försäkringsrådgivare, företagssäljare och inköpare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3321",
+        "title": "Försäkringssäljare och försäkringsrådgivare",
+        "level": 4
+    },
+    {
+        "code": "3322",
+        "title": "Företagssäljare",
+        "level": 4
+    },
+    {
+        "code": "3323",
+        "title": "Inköpare och upphandlare",
+        "level": 4
+    },
+    {
+        "code": "3324",
+        "title": "Ordersamordnare m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "333",
+        "title": "Förmedlare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3331",
+        "title": "Speditörer och transportmäklare",
+        "level": 4
+    },
+    {
+        "code": "3332",
+        "title": "Evenemangs- och reseproducenter m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3333",
+        "title": "Arbetsförmedlare ",
+        "level": 4
+    },
+    {
+        "code": "3334",
+        "title": "Fastighetsmäklare",
+        "level": 4
+    },
+    {
+        "code": "3335",
+        "title": "Fastighetsförvaltare",
+        "level": 4
+    },
+    {
+        "code": "3339",
+        "title": "Övriga förmedlare ",
+        "level": 4
+    },
+    {
+        "code": "334",
+        "title": "Juristsekreterare, chefssekreterare och institutionssekreterare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3341",
+        "title": "Gruppledare för kontorspersonal",
+        "level": 4
+    },
+    {
+        "code": "3342",
+        "title": "Domstols- och juristsekreterare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3343",
+        "title": "Chefssekreterare och VD-assistenter m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "335",
+        "title": "Skatte- och socialförsäkringshandläggare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3351",
+        "title": "Tull- och kustbevakningstjänstemän",
+        "level": 4
+    },
+    {
+        "code": "3352",
+        "title": "Skattehandläggare",
+        "level": 4
+    },
+    {
+        "code": "3353",
+        "title": "Socialförsäkringshandläggare",
+        "level": 4
+    },
+    {
+        "code": "3354",
+        "title": "Säkerhetsinspektörer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3355",
+        "title": "Brandingenjörer och byggnadsinspektörer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3359",
+        "title": "Övriga handläggare ",
+        "level": 4
+    },
+    {
+        "code": "336",
+        "title": "Poliser",
+        "level": 3
+    },
+    {
+        "code": "3360",
+        "title": "Poliser  ",
+        "level": 4
+    },
+    {
+        "code": "341",
+        "title": " Behandlingsassistenter och pastorer",
+        "level": 3
+    },
+    {
+        "code": "3411",
+        "title": "Behandlingsassistenter och socialpedagoger m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3412",
+        "title": "Pastorer m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "342",
+        "title": "Idrottsutövare och fritidsledare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3421",
+        "title": "Professionella idrottsutövare",
+        "level": 4
+    },
+    {
+        "code": "3422",
+        "title": "Idrottstränare och instruktörer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3423",
+        "title": "Fritidsledare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3424",
+        "title": "Friskvårdskonsulenter och hälsopedagoger m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "343",
+        "title": "Fotografer, dekoratörer och underhållningsartister m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3431",
+        "title": "Fotografer",
+        "level": 4
+    },
+    {
+        "code": "3432",
+        "title": "Inredare, dekoratörer och scenografer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3433",
+        "title": "Inspicienter och scriptor m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3439",
+        "title": "Övriga yrken inom kultur och underhållning ",
+        "level": 4
+    },
+    {
+        "code": "344",
+        "title": "Trafiklärare och instruktörer",
+        "level": 3
+    },
+    {
+        "code": "3441",
+        "title": "Trafiklärare",
+        "level": 4
+    },
+    {
+        "code": "3449",
+        "title": "Övriga utbildare och instruktörer ",
+        "level": 4
+    },
+    {
+        "code": "345",
+        "title": "Köksmästare och souschefer",
+        "level": 3
+    },
+    {
+        "code": "3451",
+        "title": "Köksmästare och souschefer",
+        "level": 4
+    },
+    {
+        "code": "3452",
+        "title": "Storhushållsföreståndare  ",
+        "level": 4
+    },
+    {
+        "code": "351",
+        "title": "Drift-, support- och nätverkstekniker m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3511",
+        "title": "Drifttekniker, IT",
+        "level": 4
+    },
+    {
+        "code": "3512",
+        "title": "Supporttekniker, IT",
+        "level": 4
+    },
+    {
+        "code": "3513",
+        "title": "Systemadministratörer",
+        "level": 4
+    },
+    {
+        "code": "3514",
+        "title": "Nätverks- och systemtekniker m.fl.",
+        "level": 4
+    },
+    {
+        "code": "3515",
+        "title": "Webbmaster och webbadministratörer ",
+        "level": 4
+    },
+    {
+        "code": "352",
+        "title": "Bild-, ljud- och ljustekniker m.fl.",
+        "level": 3
+    },
+    {
+        "code": "3521",
+        "title": "Bild- och sändningstekniker",
+        "level": 4
+    },
+    {
+        "code": "411",
+        "title": "Kontorsassistenter och sekreterare",
+        "level": 3
+    },
+    {
+        "code": "4111",
+        "title": "Ekonomiassistenter m.fl.",
+        "level": 4
+    },
+    {
+        "code": "4112",
+        "title": "Löne- och personaladministratörer",
+        "level": 4
+    },
+    {
+        "code": "4113",
+        "title": "Backofficepersonal m.fl.",
+        "level": 4
+    },
+    {
+        "code": "4114",
+        "title": "Marknads- och försäljningsassistenter",
+        "level": 4
+    },
+    {
+        "code": "4115",
+        "title": "Inköps- och orderassistenter",
+        "level": 4
+    },
+    {
+        "code": "4116",
+        "title": "Skolassistenter m.fl.",
+        "level": 4
+    },
+    {
+        "code": "4117",
+        "title": "Medicinska sekreterare, vårdadministratörer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "4119",
+        "title": "Övriga kontorsassistenter och sekreterare  ",
+        "level": 4
+    },
+    {
+        "code": "421",
+        "title": "Croupierer och inkasserare",
+        "level": 3
+    },
+    {
+        "code": "4211",
+        "title": "Croupierer och oddssättare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "4212",
+        "title": "Inkasserare och pantlånare m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "422",
+        "title": "Resesäljare, kundtjänstpersonal och receptionister m.fl.",
+        "level": 3
+    },
+    {
+        "code": "4221",
+        "title": "Resesäljare och trafikassistenter m.fl.",
+        "level": 4
+    },
+    {
+        "code": "4222",
+        "title": "Kundtjänstpersonal",
+        "level": 4
+    },
+    {
+        "code": "4223",
+        "title": "Telefonister",
+        "level": 4
+    },
+    {
+        "code": "4224",
+        "title": "Hotellreceptionister m.fl.",
+        "level": 4
+    },
+    {
+        "code": "4225",
+        "title": "Kontorsreceptionister",
+        "level": 4
+    },
+    {
+        "code": "4226",
+        "title": "Marknadsundersökare och intervjuare  ",
+        "level": 4
+    },
+    {
+        "code": "431",
+        "title": "Utgår11    ",
+        "level": 3
+    },
+    {
+        "code": "432",
+        "title": "Lagerpersonal och transportledare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "4321",
+        "title": "Arbetsledare inom lager och terminal",
+        "level": 4
+    },
+    {
+        "code": "4322",
+        "title": "Lager- och terminalpersonal",
+        "level": 4
+    },
+    {
+        "code": "4323",
+        "title": "Transportledare och transportsamordnare  ",
+        "level": 4
+    },
+    {
+        "code": "441",
+        "title": "Biblioteks- och arkivassistenter m.fl.",
+        "level": 3
+    },
+    {
+        "code": "4410",
+        "title": "Biblioteks- och arkivassistenter m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "442",
+        "title": "Brevbärare och postterminalarbetare",
+        "level": 3
+    },
+    {
+        "code": "4420",
+        "title": "Brevbärare och postterminalarbetare ",
+        "level": 4
+    },
+    {
+        "code": "443",
+        "title": " Förtroendevalda",
+        "level": 3
+    },
+    {
+        "code": "511",
+        "title": "Kabinpersonal, tågmästare och guider m.fl.",
+        "level": 3
+    },
+    {
+        "code": "5111",
+        "title": "Kabinpersonal m.fl.",
+        "level": 4
+    },
+    {
+        "code": "5112",
+        "title": "Tågvärdar och ombordansvariga m.fl.",
+        "level": 4
+    },
+    {
+        "code": "5113",
+        "title": "Guider och reseledare ",
+        "level": 4
+    },
+    {
+        "code": "512",
+        "title": "Kockar och kallskänkor",
+        "level": 3
+    },
+    {
+        "code": "5120",
+        "title": "Kockar och kallskänkor ",
+        "level": 4
+    },
+    {
+        "code": "513",
+        "title": "Hovmästare, servitörer och bartendrar",
+        "level": 3
+    },
+    {
+        "code": "5131",
+        "title": "Hovmästare och servitörer",
+        "level": 4
+    },
+    {
+        "code": "5132",
+        "title": "Bartendrar ",
+        "level": 4
+    },
+    {
+        "code": "514",
+        "title": "Skönhets- och kroppsterapeuter",
+        "level": 3
+    },
+    {
+        "code": "5141",
+        "title": "Frisörer",
+        "level": 4
+    },
+    {
+        "code": "5142",
+        "title": "Hudterapeuter",
+        "level": 4
+    },
+    {
+        "code": "5143",
+        "title": "Massörer och massageterapeuter",
+        "level": 4
+    },
+    {
+        "code": "5144",
+        "title": "Fotterapeuter",
+        "level": 4
+    },
+    {
+        "code": "5149",
+        "title": "Övriga skönhets- och kroppsterapeuter ",
+        "level": 4
+    },
+    {
+        "code": "515",
+        "title": "Städledare och fastighetsskötare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "5151",
+        "title": "Städledare och husfruar",
+        "level": 4
+    },
+    {
+        "code": "5152",
+        "title": "Fastighetsskötare ",
+        "level": 4
+    },
+    {
+        "code": "516",
+        "title": "Övrig servicepersonal",
+        "level": 3
+    },
+    {
+        "code": "5161",
+        "title": "Begravnings- och krematoriepersonal",
+        "level": 4
+    },
+    {
+        "code": "5169",
+        "title": "Övrig servicepersonal  ",
+        "level": 4
+    },
+    {
+        "code": "521",
+        "title": "UTGÅR12 ",
+        "level": 3
+    },
+    {
+        "code": "522",
+        "title": "Butikspersonal",
+        "level": 3
+    },
+    {
+        "code": "5221",
+        "title": "Säljande butikschefer och avdelningschefer i butik",
+        "level": 4
+    },
+    {
+        "code": "5222",
+        "title": "Butikssäljare, dagligvaror",
+        "level": 4
+    },
+    {
+        "code": "5223",
+        "title": "Butikssäljare, fackhandel",
+        "level": 4
+    },
+    {
+        "code": "5224",
+        "title": "Optikerassistenter",
+        "level": 4
+    },
+    {
+        "code": "5225",
+        "title": "Bensinstationspersonal",
+        "level": 4
+    },
+    {
+        "code": "5226",
+        "title": "Uthyrare",
+        "level": 4
+    },
+    {
+        "code": "5227",
+        "title": "Apotekstekniker ",
+        "level": 4
+    },
+    {
+        "code": "523",
+        "title": "Kassapersonal m.fl.",
+        "level": 3
+    },
+    {
+        "code": "5230",
+        "title": "Kassapersonal m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "524",
+        "title": "Eventsäljare och telefonförsäljare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "5241",
+        "title": "Eventsäljare och butiksdemonstratörer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "5242",
+        "title": "Telefonförsäljare m.fl.  ",
+        "level": 4
+    },
+    {
+        "code": "531",
+        "title": "Barnskötare och elevassistenter m.fl.",
+        "level": 3
+    },
+    {
+        "code": "5311",
+        "title": "Barnskötare",
+        "level": 4
+    },
+    {
+        "code": "5312",
+        "title": "Elevassistenter m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "532",
+        "title": "Undersköterskor",
+        "level": 3
+    },
+    {
+        "code": "5321",
+        "title": "Undersköterskor, hemtjänst, hemsjukvård och äldreboende",
+        "level": 4
+    },
+    {
+        "code": "5322",
+        "title": "Undersköterskor, habilitering",
+        "level": 4
+    },
+    {
+        "code": "5323",
+        "title": "Undersköterskor, vård- och specialavdelning",
+        "level": 4
+    },
+    {
+        "code": "5324",
+        "title": "Undersköterskor, mottagning",
+        "level": 4
+    },
+    {
+        "code": "5325",
+        "title": "Barnsköterskor",
+        "level": 4
+    },
+    {
+        "code": "5326",
+        "title": "Ambulanssjukvårdare ",
+        "level": 4
+    },
+    {
+        "code": "533",
+        "title": "Vårdbiträden",
+        "level": 3
+    },
+    {
+        "code": "5330",
+        "title": "Vårdbiträden ",
+        "level": 4
+    },
+    {
+        "code": "534",
+        "title": "Skötare, vårdare och personliga assistenter m.fl.",
+        "level": 3
+    },
+    {
+        "code": "5341",
+        "title": "Skötare",
+        "level": 4
+    },
+    {
+        "code": "5342",
+        "title": "Vårdare, boendestödjare",
+        "level": 4
+    },
+    {
+        "code": "5343",
+        "title": "Personliga assistenter",
+        "level": 4
+    },
+    {
+        "code": "5349",
+        "title": "Övrig vård- och omsorgspersonal ",
+        "level": 4
+    },
+    {
+        "code": "535",
+        "title": "Tandsköterskor",
+        "level": 3
+    },
+    {
+        "code": "5350",
+        "title": "Tandsköterskor  ",
+        "level": 4
+    },
+    {
+        "code": "541",
+        "title": "Andra bevaknings- och säkerhetsyrken",
+        "level": 3
+    },
+    {
+        "code": "5411",
+        "title": "Brandmän",
+        "level": 4
+    },
+    {
+        "code": "5412",
+        "title": "Kriminalvårdare",
+        "level": 4
+    },
+    {
+        "code": "5413",
+        "title": "Väktare och ordningsvakter",
+        "level": 4
+    },
+    {
+        "code": "5414",
+        "title": "SOS-operatörer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "5419",
+        "title": "Övrig bevaknings- och säkerhetspersonal     Översiktlig förteckning Standard för svensk yrkesklassificering (SSYK) 2012",
+        "level": 4
+    },
+    {
+        "code": "611",
+        "title": "Växtodlare inom jordbruk och trädgård",
+        "level": 3
+    },
+    {
+        "code": "6111",
+        "title": "Odlare av jordbruksväxter, frukt- och bär",
+        "level": 4
+    },
+    {
+        "code": "6112",
+        "title": "Trädgårdsodlare",
+        "level": 4
+    },
+    {
+        "code": "6113",
+        "title": "Trädgårdsanläggare m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "612",
+        "title": "Djuruppfödare och djurskötare",
+        "level": 3
+    },
+    {
+        "code": "6121",
+        "title": "Uppfödare och skötare av lantbrukets husdjur",
+        "level": 4
+    },
+    {
+        "code": "6122",
+        "title": "Uppfödare och skötare av sällskapsdjur",
+        "level": 4
+    },
+    {
+        "code": "6129",
+        "title": "Övriga djuruppfödare och djurskötare ",
+        "level": 4
+    },
+    {
+        "code": "613",
+        "title": "Växtodlare och djuruppfödare, blandad drift",
+        "level": 3
+    },
+    {
+        "code": "6130",
+        "title": "Växtodlare och djuruppfödare, blandad drift  ",
+        "level": 4
+    },
+    {
+        "code": "621",
+        "title": "Skogsarbetare",
+        "level": 3
+    },
+    {
+        "code": "6210",
+        "title": "Skogsarbetare ",
+        "level": 4
+    },
+    {
+        "code": "622",
+        "title": "Fiskodlare och fiskare",
+        "level": 3
+    },
+    {
+        "code": "6221",
+        "title": "Fiskodlare",
+        "level": 4
+    },
+    {
+        "code": "711",
+        "title": "Snickare, murare och anläggningsarbetare",
+        "level": 3
+    },
+    {
+        "code": "7111",
+        "title": "Träarbetare, snickare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "7112",
+        "title": "Murare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "7113",
+        "title": "Betongarbetare",
+        "level": 4
+    },
+    {
+        "code": "7114",
+        "title": "Anläggningsarbetare",
+        "level": 4
+    },
+    {
+        "code": "7115",
+        "title": "Anläggningsdykare",
+        "level": 4
+    },
+    {
+        "code": "7116",
+        "title": "Ställningsbyggare",
+        "level": 4
+    },
+    {
+        "code": "7119",
+        "title": "Övriga byggnads- och anläggningsarbetare ",
+        "level": 4
+    },
+    {
+        "code": "712",
+        "title": "Takmontörer, golvläggare och VVSmontörer m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7121",
+        "title": "Takmontörer",
+        "level": 4
+    },
+    {
+        "code": "7122",
+        "title": "Golvläggare",
+        "level": 4
+    },
+    {
+        "code": "7123",
+        "title": "Isoleringsmontörer",
+        "level": 4
+    },
+    {
+        "code": "7124",
+        "title": "Glastekniker",
+        "level": 4
+    },
+    {
+        "code": "7125",
+        "title": "VVS-montörer m.fl.",
+        "level": 4
+    },
+    {
+        "code": "7126",
+        "title": "Kyl- och värmepumpstekniker m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "713",
+        "title": "Målare, lackerare och skorstensfejare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7131",
+        "title": "Målare",
+        "level": 4
+    },
+    {
+        "code": "7132",
+        "title": "Lackerare och industrimålare",
+        "level": 4
+    },
+    {
+        "code": "7133",
+        "title": "Skorstensfejare",
+        "level": 4
+    },
+    {
+        "code": "7134",
+        "title": "Saneringsarbetare m.fl.  ",
+        "level": 4
+    },
+    {
+        "code": "721",
+        "title": "Gjutare, svetsare och plåtslagare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7211",
+        "title": "Gjutare",
+        "level": 4
+    },
+    {
+        "code": "7212",
+        "title": "Svetsare och gasskärare",
+        "level": 4
+    },
+    {
+        "code": "7213",
+        "title": "Byggnads- och ventilationsplåtslagare",
+        "level": 4
+    },
+    {
+        "code": "7214",
+        "title": "Tunnplåtslagare",
+        "level": 4
+    },
+    {
+        "code": "7215",
+        "title": "Stålkonstruktionsmontörer och grovplåtslagare ",
+        "level": 4
+    },
+    {
+        "code": "722",
+        "title": "Smeder och verktygsmakare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7221",
+        "title": "Smeder",
+        "level": 4
+    },
+    {
+        "code": "7222",
+        "title": "Verktygsmakare",
+        "level": 4
+    },
+    {
+        "code": "7223",
+        "title": "Maskinställare och maskinoperatörer, metallarbete",
+        "level": 4
+    },
+    {
+        "code": "7224",
+        "title": "Slipare m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "723",
+        "title": "Fordonsmekaniker och reparatörer m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7231",
+        "title": "Motorfordonsmekaniker och fordonsreparatörer",
+        "level": 4
+    },
+    {
+        "code": "7232",
+        "title": "Flygmekaniker m.fl.",
+        "level": 4
+    },
+    {
+        "code": "7233",
+        "title": "Underhållsmekaniker och maskinreparatörer  ",
+        "level": 4
+    },
+    {
+        "code": "731",
+        "title": "Finmekaniker och konsthantverkare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7311",
+        "title": "Finmekaniker",
+        "level": 4
+    },
+    {
+        "code": "7312",
+        "title": "Guld- och silversmeder",
+        "level": 4
+    },
+    {
+        "code": "7319",
+        "title": "Musikinstrumentmakare och övriga konsthantverkare ",
+        "level": 4
+    },
+    {
+        "code": "732",
+        "title": "Prepresstekniker, tryckare och bokbindare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7321",
+        "title": "Prepresstekniker",
+        "level": 4
+    },
+    {
+        "code": "7322",
+        "title": "Tryckare",
+        "level": 4
+    },
+    {
+        "code": "7323",
+        "title": "Bokbindare m.fl.  ",
+        "level": 4
+    },
+    {
+        "code": "741",
+        "title": "Installations- och industrielektriker m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7411",
+        "title": "Installations- och serviceelektriker",
+        "level": 4
+    },
+    {
+        "code": "7412",
+        "title": "Industrielektriker",
+        "level": 4
+    },
+    {
+        "code": "7413",
+        "title": "Distributionselektriker ",
+        "level": 4
+    },
+    {
+        "code": "742",
+        "title": "Elektronikreparatörer och kommunikationselektriker m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7420",
+        "title": "Elektronikreparatörer och kommunikationselektriker m.fl.  Standard för svensk yrkesklassificering (SSYK) 2012 Översiktlig förteckning ",
+        "level": 4
+    },
+    {
+        "code": "751",
+        "title": "Utgår13 ",
+        "level": 3
+    },
+    {
+        "code": "752",
+        "title": "Ytbehandlare, trä och möbelsnickare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7521",
+        "title": "Manuella ytbehandlare, trä",
+        "level": 4
+    },
+    {
+        "code": "7522",
+        "title": "Fin-, inrednings- och möbelsnickare",
+        "level": 4
+    },
+    {
+        "code": "7523",
+        "title": "Maskinsnickare och maskinoperatörer, träindustri ",
+        "level": 4
+    },
+    {
+        "code": "753",
+        "title": "Skräddare, tapetserare och läderhantverkare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7531",
+        "title": "Skräddare och ateljésömmerskor m.fl.",
+        "level": 4
+    },
+    {
+        "code": "7532",
+        "title": "Sömmare",
+        "level": 4
+    },
+    {
+        "code": "7533",
+        "title": "Tapetserare",
+        "level": 4
+    },
+    {
+        "code": "7534",
+        "title": "Läderhantverkare och skomakare  ",
+        "level": 4
+    },
+    {
+        "code": "761",
+        "title": "Slaktare, bagare och livsmedelsförädlare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "7611",
+        "title": "Slaktare och styckare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "7612",
+        "title": "Bagare och konditorer",
+        "level": 4
+    },
+    {
+        "code": "7613",
+        "title": "Provsmakare och kvalitetsbedömare",
+        "level": 4
+    },
+    {
+        "code": "811",
+        "title": "Malmförädlingsyrken och brunnsborrare m.fl.",
+        "level": 3
+    },
+    {
+        "code": "8111",
+        "title": "Gruv- och stenbrottsarbetare",
+        "level": 4
+    },
+    {
+        "code": "8112",
+        "title": "Processoperatörer, stenkross- och malmförädlingsanläggning",
+        "level": 4
+    },
+    {
+        "code": "8113",
+        "title": "Brunnsborrare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "8114",
+        "title": "Maskinoperatörer, cement-, sten- och betongvaror",
+        "level": 4
+    },
+    {
+        "code": "8115",
+        "title": "Bergsprängare",
+        "level": 4
+    },
+    {
+        "code": "8116",
+        "title": "Stenhuggare m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "812",
+        "title": "Process- och maskinoperatörer, vid stål- och metallverk",
+        "level": 3
+    },
+    {
+        "code": "8121",
+        "title": "Maskinoperatörer, ytbehandling",
+        "level": 4
+    },
+    {
+        "code": "8122",
+        "title": "Valsverksoperatörer",
+        "level": 4
+    },
+    {
+        "code": "8129",
+        "title": "Övriga maskin- och processoperatörer vid stål- och metallverk  ",
+        "level": 4
+    },
+    {
+        "code": "813",
+        "title": "Maskinoperatörer, kemiska och farmaceutiska produkter m.m.",
+        "level": 3
+    },
+    {
+        "code": "8131",
+        "title": "Maskinoperatörer, farmaceutiska produkter",
+        "level": 4
+    },
+    {
+        "code": "8132",
+        "title": "Maskinoperatörer, kemisktekniska och fotografiska produkter ",
+        "level": 4
+    },
+    {
+        "code": "814",
+        "title": "Maskinoperatörer, gummi-, plast- och pappersvaruindustri",
+        "level": 3
+    },
+    {
+        "code": "8141",
+        "title": "Maskinoperatörer, gummiindustri",
+        "level": 4
+    },
+    {
+        "code": "8142",
+        "title": "Maskinoperatörer, plastindustri",
+        "level": 4
+    },
+    {
+        "code": "8143",
+        "title": "Maskinoperatörer, pappersvaruindustri ",
+        "level": 4
+    },
+    {
+        "code": "815",
+        "title": "Maskinoperatörer, textil-, tvätt- och läderindustri m.m.",
+        "level": 3
+    },
+    {
+        "code": "8151",
+        "title": "Maskinoperatörer, blekning, färgning och tvättning",
+        "level": 4
+    },
+    {
+        "code": "8159",
+        "title": "Övriga maskinoperatörer, textil-, skinnoch läderindustri ",
+        "level": 4
+    },
+    {
+        "code": "816",
+        "title": "Maskinoperatörer, livsmedelsindustri",
+        "level": 3
+    },
+    {
+        "code": "8161",
+        "title": "Maskinoperatörer, kött- och fiskberedningsindustri",
+        "level": 4
+    },
+    {
+        "code": "8162",
+        "title": "Maskinoperatörer, mejeri",
+        "level": 4
+    },
+    {
+        "code": "8163",
+        "title": "Maskinoperatörer, kvarn-, bageri- och konfektyrindustri",
+        "level": 4
+    },
+    {
+        "code": "8169",
+        "title": "Övriga maskinoperatörer inom livsmedelsindustri m.m. ",
+        "level": 4
+    },
+    {
+        "code": "817",
+        "title": "Processoperatörer, trä- och pappersindustri",
+        "level": 3
+    },
+    {
+        "code": "8171",
+        "title": "Processoperatörer, pappersmassa",
+        "level": 4
+    },
+    {
+        "code": "8172",
+        "title": "Processoperatörer, papper",
+        "level": 4
+    },
+    {
+        "code": "8173",
+        "title": "Operatörer inom sågverk, hyvleri och plywood m.m.",
+        "level": 4
+    },
+    {
+        "code": "8174",
+        "title": "Maskinoperatörer inom ytbehandling, trä ",
+        "level": 4
+    },
+    {
+        "code": "818",
+        "title": "Andra process- och maskinoperatörer",
+        "level": 3
+    },
+    {
+        "code": "8181",
+        "title": "Maskinoperatörer, påfyllning, packning och märkning",
+        "level": 4
+    },
+    {
+        "code": "8189",
+        "title": "Andra process- och maskinoperatörer ",
+        "level": 4
+    },
+    {
+        "code": "819",
+        "title": "Drifttekniker och processövervakare",
+        "level": 3
+    },
+    {
+        "code": "8191",
+        "title": "Drifttekniker vid värme- och vattenverk",
+        "level": 4
+    },
+    {
+        "code": "8192",
+        "title": "Processövervakare, kemisk industri",
+        "level": 4
+    },
+    {
+        "code": "8193",
+        "title": "Processövervakare, metallproduktion",
+        "level": 4
+    },
+    {
+        "code": "8199",
+        "title": "Övriga drifttekniker och processövervakare  ",
+        "level": 4
+    },
+    {
+        "code": "821",
+        "title": "Montörer",
+        "level": 3
+    },
+    {
+        "code": "8211",
+        "title": "Fordonsmontörer",
+        "level": 4
+    },
+    {
+        "code": "8212",
+        "title": "Montörer, elektrisk och elektronisk utrustning",
+        "level": 4
+    },
+    {
+        "code": "8213",
+        "title": "Montörer, metall-, gummi- och plastprodukter",
+        "level": 4
+    },
+    {
+        "code": "8214",
+        "title": "Montörer, träprodukter",
+        "level": 4
+    },
+    {
+        "code": "8219",
+        "title": "Övriga montörer    Översiktlig förteckning Standard för svensk yrkesklassificering (SSYK) 2012",
+        "level": 4
+    },
+    {
+        "code": "831",
+        "title": "Lokförare och bangårdspersonal",
+        "level": 3
+    },
+    {
+        "code": "8311",
+        "title": "Lokförare",
+        "level": 4
+    },
+    {
+        "code": "8312",
+        "title": "Bangårdspersonal ",
+        "level": 4
+    },
+    {
+        "code": "832",
+        "title": "Bil-, motorcykel och cykelförare",
+        "level": 3
+    },
+    {
+        "code": "8321",
+        "title": "Taxiförare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "8329",
+        "title": "Övriga bil-, motorcykel- och cykelförare ",
+        "level": 4
+    },
+    {
+        "code": "833",
+        "title": "Lastbils- och bussförare",
+        "level": 3
+    },
+    {
+        "code": "8331",
+        "title": "Buss- och spårvagnsförare",
+        "level": 4
+    },
+    {
+        "code": "8332",
+        "title": "Lastbilsförare m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "834",
+        "title": "Maskinförare",
+        "level": 3
+    },
+    {
+        "code": "8341",
+        "title": "Förare av jordbruks- och skogsmaskiner",
+        "level": 4
+    },
+    {
+        "code": "8342",
+        "title": "Anläggningsmaskinförare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "8343",
+        "title": "Kranförare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "8344",
+        "title": "Truckförare ",
+        "level": 4
+    },
+    {
+        "code": "835",
+        "title": "Matroser och jungmän m.fl.",
+        "level": 3
+    },
+    {
+        "code": "911",
+        "title": "Städare och hemservicepersonal m.fl.",
+        "level": 3
+    },
+    {
+        "code": "9111",
+        "title": "Städare",
+        "level": 4
+    },
+    {
+        "code": "9119",
+        "title": "Övrig hemservicepersonal m.fl. ",
+        "level": 4
+    },
+    {
+        "code": "912",
+        "title": "Tvättare, fönsterputsare och övriga rengöringsarbetare",
+        "level": 3
+    },
+    {
+        "code": "9120",
+        "title": "Bilrekonditionerare, fönsterputsare och övriga rengöringsarbetare  ",
+        "level": 4
+    },
+    {
+        "code": "921",
+        "title": "Bärplockare och plantörer m.fl.",
+        "level": 3
+    },
+    {
+        "code": "9210",
+        "title": "Bärplockare och plantörer m.fl.  ",
+        "level": 4
+    },
+    {
+        "code": "931",
+        "title": "Grovarbetare inom bygg och anläggning",
+        "level": 3
+    },
+    {
+        "code": "9310",
+        "title": "Grovarbetare inom bygg och anläggning ",
+        "level": 4
+    },
+    {
+        "code": "932",
+        "title": "Handpaketerare och andra fabriksarbetare",
+        "level": 3
+    },
+    {
+        "code": "9320",
+        "title": "Handpaketerare och andra fabriksarbetare ",
+        "level": 4
+    },
+    {
+        "code": "933",
+        "title": "Hamnarbetare och ramppersonal m.fl.",
+        "level": 3
+    },
+    {
+        "code": "9331",
+        "title": "Hamnarbetare",
+        "level": 4
+    },
+    {
+        "code": "9332",
+        "title": "Ramppersonal, flyttkarlar och varupåfyllare m.fl.  ",
+        "level": 4
+    },
+    {
+        "code": "941",
+        "title": "Snabbmatspersonal, köks- och restaurangbiträden m.fl.",
+        "level": 3
+    },
+    {
+        "code": "9411",
+        "title": "Pizzabagare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "9412",
+        "title": "Restaurang- och köksbiträden m.fl.",
+        "level": 4
+    },
+    {
+        "code": "9413",
+        "title": "Kafé- och konditoribiträden  ",
+        "level": 4
+    },
+    {
+        "code": "951",
+        "title": "Utgår14 ",
+        "level": 3
+    },
+    {
+        "code": "952",
+        "title": "Torg- och marknadsförsäljare",
+        "level": 3
+    },
+    {
+        "code": "9520",
+        "title": "Torg- och marknadsförsäljare  ",
+        "level": 4
+    },
+    {
+        "code": "961",
+        "title": "Återvinningsarbetare",
+        "level": 3
+    },
+    {
+        "code": "9610",
+        "title": "Renhållnings- och återvinningsarbetare ",
+        "level": 4
+    },
+    {
+        "code": "962",
+        "title": "Tidningsdistributörer, vaktmästare och övriga servicearbetare",
+        "level": 3
+    },
+    {
+        "code": "9621",
+        "title": "Reklamutdelare och tidningsdistributörer",
+        "level": 4
+    },
+    {
+        "code": "9622",
+        "title": "Vaktmästare m.fl.",
+        "level": 4
+    },
+    {
+        "code": "01",
+        "title": " Officerare",
+        "level": 2
+    },
+    {
+        "code": "011",
+        "title": "Officerare",
+        "level": 3
+    },
+    {
+        "code": "0110",
+        "title": "Officerare  ",
+        "level": 4
+    },
+    {
+        "code": "02",
+        "title": " Specialistofficerare",
+        "level": 2
+    },
+    {
+        "code": "021",
+        "title": "Specialistofficerare",
+        "level": 3
+    },
+    {
+        "code": "0210",
+        "title": "Specialistofficerare  ",
+        "level": 4
+    },
+    {
+        "code": "03",
+        "title": " Soldater m.fl.",
+        "level": 2
+    },
+    {
+        "code": "031",
+        "title": "Soldater m.fl.",
+        "level": 3
+    },
+    {
+        "code": "0310",
+        "title": "Soldater m.fl.  ",
+        "level": 4
+    }
+]
