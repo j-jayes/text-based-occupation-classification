@@ -1,0 +1,8 @@
+
+
+[Information from SCB about SSYK](https://www.scb.se/contentassets/0c0089cc085a45d49c1dc83923ad933a/in-english-ssyk-2012.pdf):
+
+Much the same as ISCO-88, ISCO-08 is a hierarchical classification on four
+levels; 436 Unit groups comprise the most detailed level, which can be
+aggregated into 130 Minor groups, into 43 Sub-major groups and 10 Major
+groups.
