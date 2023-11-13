@@ -1,0 +1,5 @@
+FAQs on ESCO: https://esco.ec.europa.eu/en/about-esco/faq
+
+Text mining approach to ESCO classification: https://www.sciencedirect.com/science/article/pii/S0040162521006107
+
+ESCO ONET Crosswalk: https://esco.ec.europa.eu/en/about-esco/data-science-and-esco/crosswalk-between-esco-and-onet
