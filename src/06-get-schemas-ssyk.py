@@ -84,10 +84,33 @@ def main():
     # Apply the additional modification to the already modified data
     further_modified_data = remove_yrkesomrade(modified_occupation_data)
 
+    # Function to remove redundant or partially matching words from descriptions
+    def remove_redundant_partial_words_from_description(data):
+        for entry in data:
+            title_words = entry['title'].split()
+            description_words = entry['description'].split()
+
+            # Initialize an index to track the position of the first non-matching word in the description
+            first_non_matching_index = 0
+            for i, desc_word in enumerate(description_words):
+                # Check if the current description word (or its part) is in the title words
+                if any(desc_word.startswith(title_word) for title_word in title_words):
+                    first_non_matching_index = i + 1
+                else:
+                    break
+
+            # Remove the matching words from the beginning of the description
+            if first_non_matching_index > 0:
+                entry['description'] = ' '.join(description_words[first_non_matching_index:])
+
+        return data
+
+    # Apply the function to the data
+    final_modified_data = remove_redundant_partial_words_from_description(further_modified_data)
 
     # Saving the updated JSON data
     with open('data/schemas/ssyk/occupation_codes_titles_levels_with_descriptions.json', 'w', encoding='utf-8') as file:
-        json.dump(modified_occupation_data, file, indent=4, ensure_ascii=False)
+        json.dump(final_modified_data, file, indent=4, ensure_ascii=False)
 
     print("Processing complete. Updated JSON saved as 'occupation_codes_titles_levels_with_descriptions.json'.")
 

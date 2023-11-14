@@ -45,3 +45,9 @@ graph TB
 
 
 ```
+
+
+## Classifcation training data
+
+Job tech adverts [here](https://data.jobtechdev.se/annonser/jobtechlinks/index.html) provide job adverts and they have coded up ssyk occupational codes at 4 digit level. 
+

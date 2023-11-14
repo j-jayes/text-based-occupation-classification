@@ -1,0 +1,398 @@
+{
+    "id": "9988eb05ba254c1164fb42ad0ce04409",
+    "firstSeen": "2021-02-18T07:04:18",
+    "originalJobPosting": {
+        "employmentType": "Behovs- eller timanställning",
+        "identifier": "24554894",
+        "jobLocation": {
+            "address": "Simrishamn",
+            "@context": "http://schema.org/",
+            "@type": "Place"
+        },
+        "totalJobOpenings": 4,
+        "url": "https://arbetsformedlingen.se/platsbanken/annonser/24554894",
+        "@type": "JobPosting",
+        "experienceRequirements": "Frukostvärd/Frukostvärdinna - Mindre än 1 års erfarenhet",
+        "datePosted": "2021-02-17",
+        "scraper": "arbetsformedlingen.se",
+        "hiringOrganization": {
+            "name": "Enjoy Living AB",
+            "url": "http://www.osterlengarden.se",
+            "@type": "Organization",
+            "@context": "http://schema.org/",
+            "address": "Enjoy Living AB\n\n "
+        },
+        "validThrough": "2021-08-15",
+        "title": "\"Allt i allo\" - Bed & Breakfast på Österlengården och Café GRO",
+        "relevantOccupation": {
+            "@context": "http://schema.org/",
+            "occupationalCategory": {
+                "codeValue": "474",
+                "@type": "CategoryCode",
+                "@context": "http://schema.org/"
+            },
+            "name": "Frukostvärd/Frukostvärdinna",
+            "@type": "Occupation"
+        },
+        "@context": "http://schema.org/"
+    },
+    "detected_language": "sv",
+    "application_deadline": "2021-08-15T23:59:59",
+    "text_enrichments_results": {
+        "enriched_result": {
+            "enriched_candidates": {
+                "occupations": [
+                    {
+                        "concept_label": "Frukostvärdinna",
+                        "term": "frukostvärdinna",
+                        "term_misspelled": false,
+                        "prediction": 0.574660629
+                    }
+                ],
+                "competencies": [
+                    {
+                        "concept_label": "Cafeteria",
+                        "term": "café",
+                        "term_misspelled": false,
+                        "prediction": 0.373409629
+                    },
+                    {
+                        "concept_label": "Cafeteria",
+                        "term": "café",
+                        "term_misspelled": false,
+                        "prediction": 0.112102211
+                    },
+                    {
+                        "concept_label": "Restaurangdel",
+                        "term": "restaurangdel",
+                        "term_misspelled": false,
+                        "prediction": 0.0309304
+                    },
+                    {
+                        "concept_label": "Hälsa",
+                        "term": "hälsa",
+                        "term_misspelled": false,
+                        "prediction": 0.92372787
+                    },
+                    {
+                        "concept_label": "Hälsa",
+                        "term": "hälsa",
+                        "term_misspelled": false,
+                        "prediction": 0.9508833
+                    },
+                    {
+                        "concept_label": "Cafeteria",
+                        "term": "café",
+                        "term_misspelled": false,
+                        "prediction": 0.211712718
+                    },
+                    {
+                        "concept_label": "Cafeteria",
+                        "term": "kafé",
+                        "term_misspelled": false,
+                        "prediction": 0.9550280273
+                    },
+                    {
+                        "concept_label": "Kaffe",
+                        "term": "kaffe",
+                        "term_misspelled": false,
+                        "prediction": 0.9732820094
+                    },
+                    {
+                        "concept_label": "Tillagning",
+                        "term": "tillagning",
+                        "term_misspelled": false,
+                        "prediction": 0.9970092773
+                    },
+                    {
+                        "concept_label": "Mat",
+                        "term": "mat",
+                        "term_misspelled": false,
+                        "prediction": 0.9945323765
+                    },
+                    {
+                        "concept_label": "Kök",
+                        "term": "kök",
+                        "term_misspelled": false,
+                        "prediction": 0.590572
+                    },
+                    {
+                        "concept_label": "Restaurang",
+                        "term": "restaurang",
+                        "term_misspelled": false,
+                        "prediction": 0.617447644
+                    },
+                    {
+                        "concept_label": "Hälsa",
+                        "term": "hälsa",
+                        "term_misspelled": false,
+                        "prediction": 0.9366335273
+                    },
+                    {
+                        "concept_label": "Städning",
+                        "term": "städning",
+                        "term_misspelled": false,
+                        "prediction": 0.496459842
+                    },
+                    {
+                        "concept_label": "Städning",
+                        "term": "städning",
+                        "term_misspelled": false,
+                        "prediction": 0.638289869
+                    },
+                    {
+                        "concept_label": "Bäddning",
+                        "term": "bäddning",
+                        "term_misspelled": false,
+                        "prediction": 0.764888138
+                    },
+                    {
+                        "concept_label": "Körkort",
+                        "term": "körkort",
+                        "term_misspelled": false,
+                        "prediction": 0.649000227
+                    },
+                    {
+                        "concept_label": "Trädgård",
+                        "term": "trädgård",
+                        "term_misspelled": false,
+                        "prediction": 0.312308967
+                    },
+                    {
+                        "concept_label": "Uteservering",
+                        "term": "uteservering",
+                        "term_misspelled": false,
+                        "prediction": 0.560759217
+                    },
+                    {
+                        "concept_label": "Corona",
+                        "term": "corona",
+                        "term_misspelled": false,
+                        "prediction": 0.566648
+                    },
+                    {
+                        "concept_label": "Corona",
+                        "term": "corona",
+                        "term_misspelled": false,
+                        "prediction": 0.564482123
+                    }
+                ],
+                "traits": [
+                    {
+                        "concept_label": "Trevlig",
+                        "term": "trevlig",
+                        "term_misspelled": false,
+                        "prediction": 0.199485064
+                    },
+                    {
+                        "concept_label": "Engagerad",
+                        "term": "engagerad",
+                        "term_misspelled": false,
+                        "prediction": 0.970815063
+                    },
+                    {
+                        "concept_label": "Noggrann",
+                        "term": "noggrann",
+                        "term_misspelled": false,
+                        "prediction": 0.885723114
+                    },
+                    {
+                        "concept_label": "Ärlighet",
+                        "term": "ärlighet",
+                        "term_misspelled": false,
+                        "prediction": 0.637944281
+                    },
+                    {
+                        "concept_label": "Stresstålig",
+                        "term": "stresstålighet",
+                        "term_misspelled": false,
+                        "prediction": 0.284270346
+                    },
+                    {
+                        "concept_label": "Serviceminded",
+                        "term": "serviceminded",
+                        "term_misspelled": false,
+                        "prediction": 0.855137467
+                    },
+                    {
+                        "concept_label": "Positiv",
+                        "term": "positiv",
+                        "term_misspelled": false,
+                        "prediction": 0.875736952
+                    }
+                ],
+                "geos": [
+                    {
+                        "concept_label": "Simrishamn",
+                        "term": "simrishamn",
+                        "term_misspelled": false,
+                        "prediction": 0.0902559757
+                    },
+                    {
+                        "concept_label": "Skåne",
+                        "term": "skåne län",
+                        "term_misspelled": false,
+                        "prediction": 0.119523823
+                    },
+                    {
+                        "concept_label": "Simrishamn",
+                        "term": "simrishamn",
+                        "term_misspelled": false,
+                        "prediction": 0.214527041
+                    },
+                    {
+                        "concept_label": "Ystad",
+                        "term": "ystad",
+                        "term_misspelled": false,
+                        "prediction": 0.192806184
+                    },
+                    {
+                        "concept_label": "Hammenhög",
+                        "term": "hammenhög",
+                        "term_misspelled": false,
+                        "prediction": 0.520568848
+                    },
+                    {
+                        "concept_label": "Hammenhög",
+                        "term": "hammenhög",
+                        "term_misspelled": false,
+                        "prediction": 0.843589067
+                    },
+                    {
+                        "concept_label": "Simrishamn",
+                        "term": "simrishamn",
+                        "term_misspelled": false,
+                        "prediction": 0.462187737
+                    }
+                ]
+            }
+        },
+        "enrichedbinary_result": {
+            "enriched_candidates": {
+                "occupations": [],
+                "competencies": [
+                    {
+                        "concept_label": "Uteservering",
+                        "term": "uteservering",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Corona",
+                        "term": "corona",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Kök",
+                        "term": "kök",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Restaurang",
+                        "term": "restaurang",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Städning",
+                        "term": "städning",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Körkort",
+                        "term": "körkort",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Bäddning",
+                        "term": "bäddning",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Hälsa",
+                        "term": "hälsa",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Cafeteria",
+                        "term": "kafé",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Kaffe",
+                        "term": "kaffe",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Mat",
+                        "term": "mat",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Tillagning",
+                        "term": "tillagning",
+                        "term_misspelled": false
+                    }
+                ],
+                "traits": [
+                    {
+                        "concept_label": "Ärlighet",
+                        "term": "ärlighet",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Serviceminded",
+                        "term": "serviceminded",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Positiv",
+                        "term": "positiv",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Noggrann",
+                        "term": "noggrann",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Engagerad",
+                        "term": "engagerad",
+                        "term_misspelled": false
+                    }
+                ],
+                "geos": [
+                    {
+                        "concept_label": "Simrishamn",
+                        "term": "simrishamn",
+                        "term_misspelled": false
+                    },
+                    {
+                        "concept_label": "Skåne",
+                        "term": "skåne län",
+                        "term_misspelled": false
+                    }
+                ]
+            }
+        }
+    },
+    "workplace_addresses": [
+        {
+            "municipality_concept_id": "dLxo_EpC_oPe",
+            "municipality": "Simrishamn",
+            "region_concept_id": "CaRE_1nn_cSU",
+            "region": "Skåne län",
+            "country_concept_id": "i46j_HmG_v64",
+            "country": "Sverige"
+        }
+    ],
+    "ssyk_lvl4": 5120,
+    "hashsum": "AMOEOsOvAMO7TDk=AcKyw6N6AXbCscOGABHDvMKvASTDqcOBADnChXc=AsOzFsK6+8b449d735b84e173948e36df183c60ef",
+    "sourceLinks": [
+        {
+            "displayName": "arbetsformedlingen.se",
+            "link": "https://arbetsformedlingen.se/platsbanken/annonser/24554894"
+        }
+    ],
+    "isValid": true,
+    "brief_description": "Inför kommande säsong söker vi personal! Tacksam om enbart du som bor inom Simrishamn/Ystad kommun, som inte är beroende av kollektivtrafiken söker tjänsten pga läge och arbetstider.",
+    "date_to_display_as_publish_date": "2021-02-17T00:00:00"
+}

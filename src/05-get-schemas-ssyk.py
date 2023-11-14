@@ -58,5 +58,4 @@ output_file_path = './data/schemas/ssyk/ssyk_text_cleaned.txt'
 # Running the function
 remove_unwanted_lines(file_path, output_file_path)
 
-output_file_path
 
