@@ -51,3 +51,51 @@ graph TB
 
 Job tech adverts [here](https://data.jobtechdev.se/annonser/jobtechlinks/index.html) provide job adverts and they have coded up ssyk occupational codes at 4 digit level. 
 
+I am not 100% sure that their classification is good?
+
+For example, they give "Frukostvärd/Frukostvärdinna" code 5120, which is 
+
+    {
+        "code": "5120",
+        "title": "Kockar och kallskänkor ",
+        "level": 4,
+        "description": "Lagar, lägger upp och garnerar mat inom hotell- och restaurangnäring, inom storkök, provkök, på ett fartyg eller i en butik. Yrkesgrupp"
+    },
+
+Maybe this one is better?
+
+9412 Restaurang- och köksbiträden m.fl.
+Portionerar mat, tar emot betalning i kassa samt plockar disk och diskar inom restaurang eller storkök. Förbereder mat, sköljer, skalar och hackar grönsaker. Deltar i enklare matlagning. Ansvarar för frukostservering.
+
+9412 Restaurant and kitchen assistants, etc.
+Portions food, accepts payment at the till and picks dishes and dishes within a restaurant or commercial kitchen. Prepares food, rinses, peels and chops vegetables. Participates in simple cooking. Responsible for serving breakfast.
+
+Another one that looks wrong:
+
+        "title": "\"The future depends on what you do today – Join ALTEN Life Science\"",
+        "@context": "http://schema.org/",
+        "relevantOccupation": {
+            "@type": "Occupation",
+            "name": "Biomedicinare",
+            "occupationalCategory": {
+
+classified as         "code": "2144",
+        "title": "Civilingenjörsyrken inom maskinteknik",
+
+
+Another mistake:
+
+    {
+        "job_title": "Kranbilsf\u00f6rare",
+        "ssyk_lvl4": 9412
+    },
+
+9412 is cook in a restaurant not a crane operator. 
+
+
+Is this correct?
+
+## What is doing well?
+
+Need to create a scoring method - top-n classification seems reasonable.
+
